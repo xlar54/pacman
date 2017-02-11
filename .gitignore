@@ -8,7 +8,6 @@
 
 *.csproj
 *.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
